@@ -22,7 +22,7 @@ Weakness of  Linked List are:
 
 
 The linked list requires more memory to store the elements than an array, because each node of the linked list points a pointer, due to which it requires more memory.
-It is very difficult to traverse the nodes in a linked list. In this, we cannot access randomly to any one node. (As we do in the array by index.) For example: – If we want to traverse a node in an n position, then we have to traverse all the nodes that come before n, which will spoil a lot of our time.
+It is very difficult to traverse the nodes in a linked list. In this, we cannot access randomly to any one node. (As we do in the array by index.) For example: â€“ If we want to traverse a node in an n position, then we have to traverse all the nodes that come before n, which will spoil a lot of our time.
 Reverse traversing in a linked list is very difficult, because it requires more memory for the pointer.
 Random access is not possible in a linked list due to its dynamic memory allocation.
 
@@ -62,5 +62,4 @@ Singly Linked
 
 Doubly Linked 
 List			0(N)		0(N)		0(1)		0(1)
-
 
